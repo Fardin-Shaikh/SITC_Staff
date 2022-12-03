@@ -1,0 +1,52 @@
+
+complted api  = 23
+profile  = 4 
+login  = 2
+outfit = 6 
+prop = 5 
+task = 6 
+
+total = 37
+completed = 23
+remaining = 14 
+
+
+main txt 
+category 
+image  
+
+http://setscityapi.onerooftechnologies.com/Staff/api/v1/StaffNotificationList?StaffId=10022&PageNumber=1  working 
+http://setscityapi.onerooftechnologies.com/Staff/api/v1/StaffNotificationList?StaffId=10022&PageNumbera=1
+16/11/22
+
+1. total and math behind the bottom sheet 
+2. key board and bottom sheet not synk 
+3. billing 2 
+4 checkout 2 
+5 attadance 1
+6 how u sort c p o  f
+
+
+18/11/22
+1.add remove to cart api 
+2.outfit section improve and apdd api 
+3.add loader special loader
+5.setion out [call api if repoce is 401 the settion out ]
+6.onnavigate back the parent screen should fetch api and loader shoul apperr
+7.notification count should apper on home screen bell icon 
+8.same in profile pick  
+
+21 /11/ 22
+1. what to add in status in in attedance api 
+2. bottom sheet close and api shou fetch in shoot section 
+3. do edit and delete api in local train 
+
+note 
+1. Update api i param is their [order id ]
+2.update copy the code of prop section  
+checkout 
+notification
+ attendence
+
+
+ 

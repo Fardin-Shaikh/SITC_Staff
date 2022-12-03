@@ -1,0 +1,39 @@
+task 
+5 api -- expected 
+but their is 10 api [2 admin ]
+
+outfit section 
+6 apis
+
+prop section 
+5 apis -- done [state change issue ]
+
+attendabce 
+3 apis
+
+login 
+2 apis ----done 
+
+notification
+4 apis
+
+shoot 
+3 api --[expected coz one interface is their]
+
+profile 
+4 apis -- done
+total  = 36
+
+section included{
+    attendabce 3
+    shoot 3
+    task 7   ` 
+    prop 5 
+    outfit 6 
+    login 2 
+    notification 4 
+    profile 4
+}
+
+
+

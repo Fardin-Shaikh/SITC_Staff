@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974312549730",
+    "project_id": "sitcstaffapp",
+    "storage_bucket": "sitcstaffapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974312549730:android:7dd9da4e4801a27567903b",
+        "android_client_info": {
+          "package_name": "com.example.upcomming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974312549730-pr4f3t53sts7eq5pnpd0vs2gjniau2tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFBIFJ2E-h4Hu06Um-y5wnlYGdPHD-0po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974312549730-pr4f3t53sts7eq5pnpd0vs2gjniau2tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
